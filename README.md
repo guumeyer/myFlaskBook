@@ -1,5 +1,5 @@
 # myFlaskBook
-Simple social web application using Python and Flask 
+Simple social monolithic web application using Python and Flask 
 
 ## Pequirement
 Python 2.7
