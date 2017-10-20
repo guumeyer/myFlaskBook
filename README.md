@@ -1,9 +1,13 @@
 # myFlaskBook
 Simple social monolithic web application using Python and Flask 
 
-## Pequirement
+## Requirement
+MongoDB
 Python 2.7
 Pip
+
+## Configuration
+all the global configuration is inside this file settings.py 
 
 ## Install all the dependecies
 pip install -r requirements.txt
